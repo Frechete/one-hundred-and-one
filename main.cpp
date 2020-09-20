@@ -126,6 +126,12 @@ int main()
             temp_lower_number = "";
             //tot_number = 0;
         }
+        if (current && (tot_number > 0))
+        {
+            cout << " " << tot_number << temp_lower_number;
+            tot_number = 0;
+            temp_lower_number = "";
+        }
     }
     if (tot_number > 0)
     {
