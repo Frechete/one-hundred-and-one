@@ -1,10 +1,4 @@
-# one-hundred-and-one
-Test interview
 
-Write an executable that converts written numbers in words to digits in the middle of a
-paragraph
-
-○ Examples
 
 ■ If the input is ‘one hundred and one’, the output should be ‘101’
 
